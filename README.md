@@ -1,12 +1,3 @@
-# Felipe Carlone Lucio
-**Engenheiro | MBA - Cientista de Dados**  
-São Paulo/SP – Brasil  
-(11) 99313-4960  
-[felipe.carlone@gmail.com](mailto:felipe.carlone@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/felipe-lucio)
-
----
-
 ## Áreas de Expertise
 - CIÊNCIA DE DADOS
 - PYTHON
