@@ -1,11 +1,9 @@
 title: Felipe Carlone Lucio
 #logo: /assets/img/headshot_circle.png
-description: "Felipe Carlone Lucio
-**Engenheiro | MBA - Cientista de Dados**  
-São Paulo/SP – Brasil  
-(11) 99313-4960  
-[felipe.carlone@gmail.com](mailto:felipe.carlone@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/felipe-lucio)"
-
-#show_dowloads: true
+description: |
+  Felipe Carlone Lucio
+  Cientista de Dados | Engenheiro de Produção
+  São Paulo/SP – Brasil
+  (11) 99313-4960  
+#show_downloads: true
 theme: jekyll-theme-minimal

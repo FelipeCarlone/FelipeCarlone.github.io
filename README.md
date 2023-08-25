@@ -1,3 +1,7 @@
+## Redes
+- [ felipe.carlone@gmail.com](mailto:felipe.carlone@gmail.com)
+- [  LinkedIn](https://www.linkedin.com/in/felipe-lucio) 
+
 ## Áreas de Expertise
 - CIÊNCIA DE DADOS
 - PYTHON
